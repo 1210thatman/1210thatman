@@ -1,14 +1,5 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=1210thatman&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/1210thatman"
-  width="600"
-  height="300"
-/>
-</a>
-  
-
 <!--
 **1210thatman/1210thatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
